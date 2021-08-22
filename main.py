@@ -6,6 +6,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.action_chains import ActionChains
 
 chrome_driver_path = "./ChromeDriver/chromedriver.exe"
+
 SIMILAR_ACCOUNT = "space_lovers"
 INSTAGRAM_ACCOUNT_URL = f"https://www.instagram.com/{SIMILAR_ACCOUNT}/followers/"
 USERNAME = "YOUR USERNAME"
